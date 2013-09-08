@@ -1,0 +1,5 @@
+* The program should run from the command line
+* The program should show the list of directories on start up
+* After a file is selected it should output its contents
+* After a directory is selected it should display its children
+* Then the program should quit
