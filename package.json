@@ -1,0 +1,11 @@
+{
+  "name":"Smashing-Node-Projects",
+  "author":"Richard Lee Abraham",
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/abraharl/Smashing-Node-Projects"
+  },
+  "dependencies":{
+    "colors":"*"
+  }
+}
