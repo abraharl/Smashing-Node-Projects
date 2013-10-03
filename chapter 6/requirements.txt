@@ -1,3 +1,7 @@
+== TCP Chat ==
 *When the server is connected it greets you and asks for your name. It then tells you how many other clients are connected
 *Upon typing your name followed by Enter, you're considered connected.
 *When connected, you can recieve and send messages to other connected clients by typing and pressing enter.
+
+== IRC Client ==
+*The program shoud successfully connect to an irc channel
